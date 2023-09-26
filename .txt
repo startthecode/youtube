@@ -1,0 +1,18 @@
+Pendings
+1. add snacbar after subscibed/sunscribed
+
+
+
+
+
+
+
+Mistakes
+1. on (rapidapi.js) in all function's like (forSuggetions(param)) we pass an whole data without distructring in future if any object key namew will change then error will come and also if we pass data in distructred then we can able to use another api which gives data with different data key.
+
+2. for one element the error should store in that only function where element function deis declared
+
+
+
+
+
